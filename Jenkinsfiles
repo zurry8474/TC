@@ -1,5 +1,5 @@
 pipeline {    
-    agent any
+    agent Jenkins
     tools {
         jdk 'jdk17'    
         maven 'maven3'    
